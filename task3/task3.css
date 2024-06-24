@@ -1,0 +1,40 @@
+body {
+    background: white;
+}
+#main {
+    width:85vw;
+    margin-left: auto;
+    margin-right:auto;
+    height:95vh;
+    background: rgb(223, 243, 248);
+    display:inline-flex
+}
+#text {
+    
+    height:95%;
+    width:35vw;
+    margin: auto;
+    font-family: sans-serif;
+    color:rgb(151, 149, 149);
+}
+#old {
+ font-size: 24px;
+ color:rgb(99, 133, 180);
+ font-style: none;
+}
+tr{
+    width:35vw;
+
+}
+td {
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+    background: rgb(5, 5, 89);
+    width:6.75vw;
+    height:6.75vw;
+    color:white;
+} 
+#giv {
+    color:rgb(5, 5, 89);
+}
